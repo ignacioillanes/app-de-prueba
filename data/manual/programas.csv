@@ -1,0 +1,21 @@
+institucion,nombre,tipo,area,modalidad,arancel_clp,duracion_meses,ciudad,region,url
+Universidad de Chile,Magíster en Gestión de Personas,magister,negocios,presencial,8500000.0,18,Santiago,Región Metropolitana,https://www.uchile.cl
+Pontificia Universidad Católica de Chile,MBA UC,magister,negocios,hibrido,14000000.0,24,Santiago,Región Metropolitana,https://negocios.uc.cl/mba
+Universidad de Santiago de Chile,Magíster en Ingeniería Industrial,magister,ingenieria,presencial,6200000.0,24,Santiago,Región Metropolitana,https://www.usach.cl
+Universidad Adolfo Ibáñez,Magíster en Finanzas,magister,negocios,presencial,12000000.0,18,Santiago,Región Metropolitana,https://www.uai.cl
+Universidad del Desarrollo,Diplomado en Marketing Digital,diplomado,negocios,online,1200000.0,6,Santiago,Región Metropolitana,https://www.udd.cl
+Universidad de Chile,Doctorado en Ciencias mención Química,doctorado,ciencias,presencial,,48,Santiago,Región Metropolitana,https://www.uchile.cl
+Pontificia Universidad Católica de Chile,Diplomado en Psicología Clínica,diplomado,psicologia,presencial,2300000.0,8,Santiago,Región Metropolitana,https://psicologia.uc.cl
+Universidad de Concepción,Magíster en Derecho Penal,magister,derecho,presencial,5800000.0,24,Concepción,Región del Biobío,https://www.udec.cl
+Universidad Austral de Chile,Magíster en Ciencias Veterinarias,magister,salud,presencial,5500000.0,24,Valdivia,Los Ríos,https://www.uach.cl
+Universidad Técnica Federico Santa María,Magíster en Ingeniería Eléctrica,magister,ingenieria,presencial,7200000.0,24,Valparaíso,Región de Valparaíso,https://www.usm.cl
+Universidad Diego Portales,Magíster en Comunicación Política,magister,comunicacion,hibrido,9500000.0,18,Santiago,Región Metropolitana,https://www.udp.cl
+Pontificia Universidad Católica de Valparaíso,Magíster en Arquitectura,magister,artes,presencial,6800000.0,24,Valparaíso,Región de Valparaíso,https://www.pucv.cl
+Universidad Andrés Bello,Magíster en Psicología Clínica,magister,psicologia,presencial,10200000.0,24,Santiago,Región Metropolitana,https://www.unab.cl
+Duoc UC,Diplomado en Desarrollo de Software,diplomado,ingenieria,online,890000.0,4,Santiago,Región Metropolitana,https://www.duoc.cl
+Universidad de Chile,Magíster en Salud Pública,magister,salud,hibrido,7800000.0,24,Santiago,Región Metropolitana,https://www.uchile.cl
+Universidad Mayor,Diplomado en Nutrición Deportiva,diplomado,salud,online,750000.0,4,Santiago,Región Metropolitana,https://www.umayor.cl
+Pontificia Universidad Católica de Chile,Doctorado en Historia,doctorado,humanidades,presencial,,60,Santiago,Región Metropolitana,https://historia.uc.cl
+Universidad de Santiago de Chile,Diplomado en Gestión Pública,diplomado,negocios,online,980000.0,5,Santiago,Región Metropolitana,https://www.usach.cl
+Universidad de Talca,Magíster en Administración de Empresas,magister,negocios,hibrido,5200000.0,18,Talca,Región del Maule,https://www.utalca.cl
+Universidad Católica del Norte,Magíster en Minería,magister,ingenieria,presencial,6500000.0,24,Antofagasta,Región de Antofagasta,https://www.ucn.cl
