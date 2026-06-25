@@ -4,6 +4,7 @@ __pycache__/
 .env
 data/raw/
 data/processed/
+data/manual/programas.csv
 reports/
 .venv/
 venv/
